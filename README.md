@@ -1,16 +1,16 @@
 # Aloha, I'm Lorelei 🤙
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](Portfolio)
+[![Website](https://www.loreleimiyamura.com)]
 
 ## I'm an Interactive Artist, Post-It Aficionado & Developer!!
 
-- 🙋 Currently sharpening up my Angular.js skills 
+- 🙋 Currently sharpening up my Angular.js, C++, and ASP.NET skills 
 - 💖 Fun fact: I love screenprinting & indigenous ethnobotany
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lorelei's website link" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="lorelei's linkedin link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Programming Languages 
 
