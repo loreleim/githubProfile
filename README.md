@@ -1,6 +1,6 @@
 # Aloha, I'm Lorelei 🤙
 
-## I'm an Interactive Artist, Post-It Aficionado & Developer
+## I'm an Interactive Artist, Full Stack Developer & Post-It Aficionado
 
 * 📚 Currently learning: Angular.js, C++, and ASP.NET 
 * 🙌 2021 Goals: Contribute to an open source project
