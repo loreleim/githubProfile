@@ -16,9 +16,9 @@
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="Firebase" height="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />][website]
-[<img align="left" alt="MySQL" height="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />](some)
-[<img align="left" alt="MongoDB" height="26px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />][website]
-[<img align="left" alt="Git" height="26px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />][website]
+[<img align="left" alt="MySQL" height="20px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />](some)
+[<img align="left" alt="MongoDB" height="20px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />][website]
+[<img align="left" alt="Git" height="20px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />][website]
 
 [website]: https://loreleimiyamura.com
 [linkedin]: https://www.linkedin.com/in/lorelei-miyamura/
