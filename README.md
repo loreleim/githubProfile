@@ -3,7 +3,7 @@
 ## I'm an Interactive Artist, Full Stack Developer & Post-It Aficionado
 
 * 📚 Currently learning: Angular.js, C++, and ASP.NET 
-* 🙌 2021 Goals: Contribute to an open source project
+* 🙌 2021 Goals: Design, Structure and Deploy an open-source API
 * 💖 Fun fact: I love screenprinting & indigenous ethnobotany
 
 ### Languages & Tools
