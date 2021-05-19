@@ -2,8 +2,8 @@
 
 ## I'm an Interactive Artist, Full Stack Developer & Post-It Aficionado
 
-* 📚 Currently learning: C++ and ASP.NET 
-* 🙌 2021 Goals: Design, Structure and Deploy an open-source API
+* 📚 Currently learning: WPEngine's Atlas & Xamarin
+* 🙌 2021 Goals: [Design, Structure and Deploy an open-source API](https://github.com/loreleim/lauapi/wiki)
 * 💖 Fun fact: I love screenprinting & indigenous ethnobotany
 
 ### Languages & Tools
