@@ -2,7 +2,7 @@
 
 ## I'm an Interactive Artist, Full Stack Developer & Post-It Aficionado
 
-* 📚 Currently learning: WPEngine's Atlas & Xamarin
+* 📚 Currently learning: Shopify!
 * 🙌 2021 Goals: [Design, Structure and Deploy an open-source API](https://github.com/loreleim/lauapi/wiki)
 * 💖 Fun fact: I love screenprinting & indigenous ethnobotany
 
