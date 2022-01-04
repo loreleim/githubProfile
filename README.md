@@ -3,7 +3,7 @@
 ## I'm an Interactive Artist, Full Stack Developer & Post-It Aficionado
 
 * 📚 Currently learning: Shopify!
-* 🙌 2021 Goals: [Design, Structure and Deploy an open-source API](https://github.com/loreleim/lauapi/wiki)
+* 🙌 2022 Goals: 🤔
 * 💖 Fun fact: I love screenprinting & indigenous ethnobotany
 
 ### Languages & Tools
