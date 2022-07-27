@@ -1,9 +1,9 @@
-# Aloha, I'm Lorelei 🤙
+# Howzit, I'm Lorelei 🤙
 
-## I'm an Interactive Artist, Full Stack Developer & Post-It Aficionado
+## An Interactive Artist, Full Stack Developer & Post-It Aficionado
 
 * 📚 Currently learning: Shopify!
-* 🙌 2022 Goals: 🤔
+* 🙌 2022 Goals: Create quickstart resources for 3 different languages
 * 💖 Fun fact: I love screenprinting & indigenous ethnobotany
 
 ### Languages & Tools
