@@ -1,9 +1,9 @@
-# Howzit, I'm Lorelei 🤙
+# Howzum, I'm Lorelei 🤙
 
 ## An Interactive Artist, Full Stack Developer & Post-It Aficionado
 
-* 📚 Currently learning: Shopify!
-* 🙌 2022 Goals: Create quickstart resources for 3 different languages
+* 📚 Currently learning: OpenAI
+* 🙌 2024 Goals: Finish a Shopify app 
 * 💖 Fun fact: I love screenprinting & indigenous ethnobotany
 
 ### Languages & Tools
