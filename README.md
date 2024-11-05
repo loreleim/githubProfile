@@ -3,7 +3,7 @@
 ## An Interactive Artist, Full Stack Developer & Post-It Aficionado
 
 * 📚 Currently learning: OpenAI
-* 🙌 2024 Goals: Finish a Shopify app 
+* 🙌 ~~2024 Goals: Finish a Shopify app~~ pau!
 * 💖 Fun fact: I love screenprinting & indigenous ethnobotany
 
 ### Languages & Tools
